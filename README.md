@@ -39,6 +39,8 @@ Tableau Dashboard URL 1:
 
 https://public.tableau.com/views/Assesment_NitishReddyGaddam1/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
+![Engagement Rate based on Hour & Day of the week](https://github.com/Nitish-ReddyG/social_data_analysis/blob/main/dashboard/Dashboard1.png)
+
 2.Games Title Social Media Performance -
 
 This dashboard portrays Engagement & Impression of different game posts on social Media. Additionally, Chart-1 shows Total Engagement & Impressions for the games namely, content creators, csgo, dota2, valorant and general category. On Contrary, Chart-2 tells the Average Engagement Rate of each game. Chart-1 & Chart-2 suggest that Total Engagement and Total Impression for games other than the general category need additional efforts for canvassing and advertisement.  
@@ -46,6 +48,8 @@ This dashboard portrays Engagement & Impression of different game posts on socia
 Tableau Dashboard URL 2:
 
 https://public.tableau.com/app/profile/nitish.reddy.gaddam4351/viz/Assesment_NitishReddyGaddam2/Dashboard2
+
+![Game Titles Social Media Performance](https://github.com/Nitish-ReddyG/social_data_analysis/blob/main/dashboard/Dashboard2.png)
 
 3.Analysis of Social Media Data Source -
 
@@ -55,6 +59,8 @@ Tableau Dashboard URL 3:
 
 https://public.tableau.com/app/profile/nitish.reddy.gaddam4351/viz/Assesment_NitishReddyGaddam3/Dashboard3
 
+![Impressions and Total Engagement for various Account Typesc](https://github.com/Nitish-ReddyG/social_data_analysis/blob/main/dashboard/Dashboard3.png)
+
 4.Analysis of Performance of Post based on Media Type -
 
 This dashboard constitutes of 2 charts - Total Impressions and Engagements for each media type & Average Engagement Rate for each media type post. Chart-1 shows that Photo and Video Media Types have a higher number of impressions and engagement, on the other hand album media type has least impression and engagement. In Contrast to Chart-1, Chart-2 rather suggests that Album has the highest engagement rate, so for this scenario, album media types engagement rate can be misleading and thus it should be understood that other media type posts have a good engagement rate.
@@ -62,6 +68,8 @@ This dashboard constitutes of 2 charts - Total Impressions and Engagements for e
 Tableau Dashboard URL 4:
 
 https://public.tableau.com/app/profile/nitish.reddy.gaddam4351/viz/Assesment_NitishReddyGaddam4/Dashboard4
+
+![Media Type Performance](https://github.com/Nitish-ReddyG/social_data_analysis/blob/main/dashboard/Dashboard4.png)
 
 5.Analysis of Campaign Type on social media -
 
@@ -71,21 +79,7 @@ Tableau Dashboard URL 5:
 
 https://public.tableau.com/app/profile/nitish.reddy.gaddam4351/viz/Assesment_NitishReddyGaddam5/Dashboard5
 
-
-
-
-## Screenshots
-
-![Engagement Rate based on Hour & Day of the week](Screenshot (674).png)
-
-![Game Titles Social Media Performance](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
-
-![Impressions and Total Engagement for various Account Typesc](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
-
-![Media Type Performance](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
-
-![Campaign Type Performance in Social Media](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
-
+![Campaign Type Performance in Social Media](https://github.com/Nitish-ReddyG/social_data_analysis/blob/main/dashboard/Dashboard5.png)
 
 
 ## Recommendations & Conclusion
