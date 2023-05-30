@@ -76,7 +76,7 @@ https://public.tableau.com/app/profile/nitish.reddy.gaddam4351/viz/Assesment_Nit
 
 ## Screenshots
 
-![Engagement Rate based on Hour & Day of the week](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
+![Engagement Rate based on Hour & Day of the week](Screenshot (674).png)
 
 ![Game Titles Social Media Performance](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
 
